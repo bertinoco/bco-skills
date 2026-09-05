@@ -153,6 +153,47 @@ signal/pattern holders plus six disclaimer instances, no time dimension, and
 no claim here should be read as the problem worsening rather than simply
 being visible once enough postings are collected to notice it.
 
+## Evaluation infrastructure is an engineering-heavy expression of generative work
+
+**What the data shows.** The deterministic/generative pairing in CLAUDE.md's
+Terminology section already defines generative content work as authoring
+"a generator's constraints and the criteria for judging what it emits." An
+eval harness is that criteria, built as software rather than a hand-run
+rubric. Spotify's Senior Conversation Designer states this as a core
+responsibility — "Build evaluation frameworks to measure and improve
+conversation quality, accuracy, task completion, and user impact" — and
+Anthropic's Product Designer, Evals & Prompts is built almost entirely
+around it: writing and revising the prompts behind Claude's product
+surfaces, then building the graders and harness that prove a prompt fix
+holds and keep working across model releases. Two companies, two domains
+(Media, Big Tech) — the `eval-infrastructure` signal this finding grounds.
+
+Two structurally similar postings were checked and stay excluded, for
+reasons independent of this pattern: Notion's Model Behavior Engineer and
+Microsoft's Senior Language Engineer both do real prompt/context-engineering
+and eval-framework work, but neither role sits in a design org, neither
+title names a content or design discipline, and both return a clean
+literal-text check with no genuine content/writing vocabulary. Anthropic's
+posting clears all three of those bars — title, placement, vocabulary —
+where Notion's and Microsoft's don't. See CLAUDE.md's "Note on
+technical/engineering roles in service of language" for the full
+comparison; this is not a case of loosening eligibility, only of correctly
+recognizing eval-harness work as language-systems work once it clears the
+existing bars.
+
+**What I think it means.** The dataset has been better at catching
+deterministic-side postings than generative-side ones since the pairing was
+named, and CLAUDE.md already says as much ("the corpus contains almost no
+postings that ask for the generative side by name"). This finding is that
+gap showing up concretely: the generative side's most technically advanced
+instances gate on engineering skill, not a writing portfolio, because
+validating language at scale is an engineering problem even when the thing
+being validated is language. A hiring filter built around "does the
+candidate's background show content craft" will systematically undercount
+this work. Expect this signal to be thin for a while — it names a real
+pattern, not yet a common one, and future JDs should be left to fill it out
+rather than backfilling every past posting with a passing mention.
+
 ## Content roles are appearing outside design orgs
 
 **What the data shows.** 23 of 29 postings state where the role sits, and the

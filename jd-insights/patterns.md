@@ -207,6 +207,16 @@ above but here inside the comp section of a single posting; it leaves the
 reader unable to tell from the boilerplate alone whether the figure is base
 or total, which is why `compRange.covers` is recorded as `null`.
 
+  This is a template, not a one-off: Anthropic's Product Designer, Evals &
+  Prompts posting carries the identical "For sales roles, the range
+  provided is the role's On Target Earnings ('OTE') range..." disclaimer
+  ahead of its own plain "Annual Salary: $305,000 - $385,000 USD," with no
+  sales component in this role either. Two Anthropic postings now, both
+  non-sales, both prefaced by sales-specific boilerplate — confirming this
+  sits in a shared template rather than something specific to the
+  documentation posting above. `compRange.covers` is `null` on this entry
+  for the same reason.
+
 ## Formatting artifacts survive into the archive
 
 Retained deliberately in `jd-source`, since they are facts about the posting:

@@ -2,8 +2,8 @@
   "meta": {
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
-    "lastUpdated": "2026-09-04",
-    "totalEntries": 55
+    "lastUpdated": "2026-09-05",
+    "totalEntries": 56
   },
   "entries": [
     {
@@ -506,7 +506,8 @@
       ],
       "signals": [
         "model-behavior-design",
-        "ai-native-expectation"
+        "ai-native-expectation",
+        "eval-infrastructure"
       ],
       "compRange": null,
       "sourceUrl": null,
@@ -1663,6 +1664,35 @@
       "sourceUrl": null,
       "dateAdded": "2026-09-04",
       "quote": "Define structured data standards, including schema.org and JSON-LD where appropriate, so content is discoverable, retrievable, and reusable by search engines, answer engines, LLMs, and internal systems."
+    },
+    {
+      "id": "anthropic-product-designer-evals-prompts",
+      "company": "Anthropic",
+      "title": "Product Designer, Evals & Prompts",
+      "domain": "Big Tech",
+      "engagement": "Not specified",
+      "location": "San Francisco, CA",
+      "remote": "hybrid",
+      "coreFrame": "Writes and revises the prompts behind Claude's tools, features, and behaviors on a product surface, and builds the graders and eval harness that validate prompt fixes across model releases. Builds visual, low-code eval tools that let other designers assemble comparison sets and rubrics without an engineer, and supports model-release testing across the team's roughly 50 to 100 tools.",
+      "clusters": [
+        "ai-tooling",
+        "enablement"
+      ],
+      "signals": [
+        "model-behavior-design",
+        "eval-infrastructure"
+      ],
+      "compRange": {
+        "min": 305000,
+        "max": 385000,
+        "currency": "USD",
+        "covers": null,
+        "scope": null,
+        "extras": null
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-09-05",
+      "quote": "Write and revise the prompts behind Claude's tools, features, and behaviors on a product surface; test the surface, turn findings into prompt fixes, ship them, and confirm the prompt users get is the one intended."
     }
   ],
   "clusters": {
@@ -1759,6 +1789,10 @@
     "agent-retrieval": {
       "label": "Structured for agent retrieval",
       "description": "Content structured so AI systems can retrieve and apply it at generation time. This sits apart from search optimization and schema markup — it's the knowledge layer a model reads from before it writes. A small pattern so far, and it places content work upstream of the output rather than after it."
+    },
+    "eval-infrastructure": {
+      "label": "Evaluation infrastructure",
+      "description": "Building the harnesses, graders, and automated eval pipelines that test whether prompts or model behavior meet a quality bar. Distinct from authoring the behavior (model-behavior-design) or setting governance standards for it (ai-content-governance) — this is the validation system itself, an engineering-heavy expression of generative content work at the frontier."
     }
   }
 }

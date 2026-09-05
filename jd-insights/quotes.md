@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **54 of 55** entries carry one.
+Every stored quote, verbatim from the posting. **55 of 56** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -42,6 +42,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > This is a content + systems ownership role. You'll curate and set the bar for what others write, and you'll build the automation that enforces it: self-healing pipelines, AI-assisted review and maintenance, and the conventions each product team follows to keep their own docs healthy.
 
 `anthropic-technical-documentation-content-engineer` · added 2026-08-20
+
+### Anthropic — Product Designer, Evals & Prompts
+
+> Write and revise the prompts behind Claude's tools, features, and behaviors on a product surface; test the surface, turn findings into prompt fixes, ship them, and confirm the prompt users get is the one intended.
+
+`anthropic-product-designer-evals-prompts` · added 2026-09-05
 
 ### Apple — UX Writer, Systems
 
