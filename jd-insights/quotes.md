@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **55 of 56** entries carry one.
+Every stored quote, verbatim from the posting. **56 of 57** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -300,6 +300,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > You'll shape the direction of the function through standards, tooling, and craft infrastructure that enables a distributed team to do their best work.
 
 `vinted-content-design-lead` · added 2026-08-26
+
+### Vinted — Taxonomist, Supply
+
+> Design, implement, and maintain ontologies and data structures that support our member-facing content.
+
+`vinted-taxonomist-supply` · added 2026-09-06
 
 ### Wealthsimple — Staff Content Designer, Investing
 

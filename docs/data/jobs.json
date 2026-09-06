@@ -2,8 +2,8 @@
   "meta": {
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
-    "lastUpdated": "2026-09-05",
-    "totalEntries": 56
+    "lastUpdated": "2026-09-06",
+    "totalEntries": 57
   },
   "entries": [
     {
@@ -1693,6 +1693,35 @@
       "sourceUrl": null,
       "dateAdded": "2026-09-05",
       "quote": "Write and revise the prompts behind Claude's tools, features, and behaviors on a product surface; test the surface, turn findings into prompt fixes, ship them, and confirm the prompt users get is the one intended."
+    },
+    {
+      "id": "vinted-taxonomist-supply",
+      "company": "Vinted",
+      "title": "Taxonomist, Supply",
+      "domain": "E-commerce",
+      "engagement": "Not specified",
+      "location": "Berlin, Germany",
+      "remote": "hybrid",
+      "coreFrame": "Builds the structural logic for navigation, search relevance, listing quality, and product expansion across Vinted's marketplace, designing and maintaining buyer- and seller-facing product taxonomies and ontologies that support member-facing content. Researches product attributes so buyers can search and sellers can describe items, and documents internal standards, workflows, governance processes, and data models, working cross-functionally with engineers, product managers, designers, and data scientists.",
+      "clusters": [
+        "taxonomy",
+        "content-systems-design",
+        "technical-writing"
+      ],
+      "signals": [
+        "classification-for-ml"
+      ],
+      "compRange": {
+        "min": 75200,
+        "max": 101800,
+        "currency": "EUR",
+        "covers": null,
+        "scope": null,
+        "extras": null
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-09-06",
+      "quote": "Design, implement, and maintain ontologies and data structures that support our member-facing content."
     }
   ],
   "clusters": {

@@ -194,6 +194,38 @@ this work. Expect this signal to be thin for a while — it names a real
 pattern, not yet a common one, and future JDs should be left to fill it out
 rather than backfilling every past posting with a passing mention.
 
+## Taxonomy work is starting to get its own title, and its own org
+
+**What the data shows.** 16 entries carry the `taxonomy` cluster. In 14, it's
+one responsibility folded into a broader content-design, architecture, or
+strategy title: Wellhub's "Senior Global UX Writer, Content Systems",
+LinkedIn's "Staff Content Architect", Ally's "Content Architect." Two now
+name the classification discipline as the entire title, not a responsibility
+inside one: Meta's Taxonomist, Content Design and Vinted's Taxonomist,
+Supply.
+
+The two aren't the same shape. Meta pairs the bare title with a content-design
+identity explicitly and repeatedly — the title itself, "a closely related
+content design discipline" in its qualifications, "content designers" named
+as collaborators. Vinted's title, org placement ("Product Management"), and
+team ("a cross-functional group of taxonomists, decision scientists, and
+product managers") never invoke content design once. It clears this
+dataset's eligibility bar on the strength of what the work classifies —
+"ontologies and data structures that support our member-facing content,"
+"maintaining Vinted's tone and voice" — not on how the posting frames the
+discipline it belongs to.
+
+**What I think it means.** As taxonomy matures into a credentialed discipline
+in its own right, it looks like it's drifting out of content-design-labeled
+orgs, not staying folded inside them. Vinted's posting is evidence that
+"Taxonomist" can now stand entirely apart from any content-design framing
+while still doing content-classification work this dataset recognizes. That's
+a thinner, more exposed kind of inclusion than Meta's — the entry survives
+on the object of the work rather than the posting's own self-description —
+and it's worth watching whether a third instance keeps that shape (product-
+or data-org placement, no content-design language) or reverts to pairing the
+bare title with a content-design identity the way Meta's does.
+
 ## Content roles are appearing outside design orgs
 
 **What the data shows.** 23 of 29 postings state where the role sits, and the
@@ -450,18 +482,6 @@ in the posting. Two entries now use the key for AI-behavior and model-design
 ownership rather than the workflow-automation frame the description states.
 Noted rather than rewritten, same as the two entries above — the description
 is user-facing card copy.
-
-**A dedicated single-discipline title for taxonomy work — one instance.**
-15 entries carry the `taxonomy` cluster, and in 14 of them taxonomy is one
-responsibility folded into a broader content-design, architecture, or
-strategy title: Wellhub's "Senior Global UX Writer, Content Systems", LinkedIn's
-"Staff Content Architect", Ally's "Content Architect", and so on. Meta's
-Taxonomist, Content Design is the first title in the corpus that names the
-discipline itself rather than a content role that happens to include it.
-First instance, so it stays here rather than becoming a key or a finding.
-*Trigger to revisit: a second posting titled for the classification
-discipline on its own — Taxonomist, Ontologist, Information Architect — rather
-than for a content role with taxonomy folded in.*
 
 **A single governance framework named for both human and agentic workflows —
 one instance.** Wix's Content Designer, Language & Systems states the role is
