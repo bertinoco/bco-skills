@@ -121,19 +121,22 @@ articulate scope precisely in an interview.
 ## Titles are failing in both directions at once
 
 **What the data shows.** `title-dilution` (a title claims more systems/AI
-substance than the stated responsibilities support) and
+substance than the stated responsibilities support) has exactly two holders:
+Insurify's "Editor, AI Content Systems" and Intercept's "Content Engineer".
 `title-responsibility-gap` (the title claims less than the responsibilities
-actually cover) each have exactly two holders: `title-dilution` on Insurify's
-"Editor, AI Content Systems" and Intercept's "Content Engineer";
-`title-responsibility-gap` on Wellhub's "Senior Global UX Writer, Content
-Systems" and Figma's "UX Writer, AI" — the latter posting disclaiming its own
+actually cover) now has three: Wellhub's "Senior Global UX Writer, Content
+Systems", Figma's "UX Writer, AI" — the latter posting disclaiming its own
 title outright, in its second paragraph: "While the title of this role is
 'UX Writer,' you might think of yourself as a content engineer as much as a
-writer." Separately, `jd-insights/patterns.md`'s "Roles defined by what they
-are not" device — a posting stating explicitly what its own role does *not*
-cover — is now at six instances (Adobe, Sanna, Wealthsimple, HelloFresh,
-Meta, UKG), up from the five recorded when that pattern note was last
-written, and has grown a second form: UKG states a matched "is / is not"
+writer" — and Splunk's plain "Content Designer (Remote)", whose stated
+responsibilities (cross-product terminology governance, information
+architecture and navigation design, design-system-compliant content
+patterns) carry more systems scope than a generic "Content Designer" title
+signals on its own. Separately, `jd-insights/patterns.md`'s "Roles defined by
+what they are not" device — a posting stating explicitly what its own role
+does *not* cover — is now at six instances (Adobe, Sanna, Wealthsimple,
+HelloFresh, Meta, UKG), up from the five recorded when that pattern note was
+last written, and has grown a second form: UKG states a matched "is / is not"
 pair rather than an exclusion sentence alone.
 
 **What I think it means.** This is the same underlying claim as "Nobody

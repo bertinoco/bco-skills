@@ -3,7 +3,7 @@
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
     "lastUpdated": "2026-09-06",
-    "totalEntries": 57
+    "totalEntries": 58
   },
   "entries": [
     {
@@ -1722,6 +1722,37 @@
       "sourceUrl": null,
       "dateAdded": "2026-09-06",
       "quote": "Design, implement, and maintain ontologies and data structures that support our member-facing content."
+    },
+    {
+      "id": "splunk-content-designer",
+      "company": "Splunk",
+      "title": "Content Designer (Remote)",
+      "domain": "SaaS",
+      "engagement": "Not specified",
+      "location": "Remote",
+      "remote": true,
+      "coreFrame": "Designs consistent UI text across flows for Splunk's enterprise security, observability, and platform products, and leads information architecture and navigation design for complex product areas. Defines and maintains cross-product terminology to resolve naming conflicts, develops content-led guidelines and patterns for design-system compliance, and supports product designers on projects without dedicated content design coverage.",
+      "clusters": [
+        "terminology-governance",
+        "content-systems-design",
+        "taxonomy",
+        "enablement"
+      ],
+      "signals": [
+        "enabler-not-bottleneck",
+        "title-responsibility-gap"
+      ],
+      "compRange": {
+        "min": 104100,
+        "max": 131900,
+        "currency": "USD",
+        "covers": "base",
+        "scope": null,
+        "extras": "annual bonus + equity (RSUs)"
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-09-06",
+      "quote": "Define and maintain cross-product terminology, partnering with product management and product marketing to resolve naming conflicts and drive durable decisions."
     }
   ],
   "clusters": {

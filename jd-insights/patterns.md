@@ -217,6 +217,22 @@ or total, which is why `compRange.covers` is recorded as `null`.
   documentation posting above. `compRange.covers` is `null` on this entry
   for the same reason.
 
+  A third company now shows the same shape in different words. **Splunk**'s
+  Content Designer (Remote) posting, Cisco-branded for its comp section,
+  follows its base-salary figure with a full paragraph on quota-based
+  incentive pay math ("For quota-based incentive pay, Cisco typically pays as
+  follows: .75% of incentive target for each 1% of revenue attainment up to
+  50% of quota...") and a footnoted disclaimer that "the ranges provided in
+  this posting include base pay and sales target incentive compensation
+  combined" for quota-based sales roles — none of which applies to a content
+  design posting with no sales component. Unlike the two Anthropic instances,
+  Splunk's posting does state plainly that the figure excludes incentive
+  compensation ("not including incentive compensation*, equity, or
+  benefits"), so `compRange.covers` is recorded as `"base"` here rather than
+  `null`; the boilerplate is irrelevant rather than ambiguating. Same
+  underlying pattern — a sales-comp template carried wholesale into a
+  non-sales posting — now confirmed at a third employer.
+
 ## Formatting artifacts survive into the archive
 
 Retained deliberately in `jd-source`, since they are facts about the posting:
